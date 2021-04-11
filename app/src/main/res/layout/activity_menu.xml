@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_main"
+    android:layout_height="match_parent"
+    tools:context=".Menu">
+
+
+    <TextView
+        android:layout_marginTop="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textSize="80dp"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="60dp"
+        android:padding="5dp"/>
+
+    <Button
+        android:layout_marginTop="3dp"
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="COSNOLE"
+        android:background="@drawable/background"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:layout_margin="20dp"
+
+        />>
+
+
+
+    <Button
+        android:layout_marginTop="3dp"
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INFORMATION"
+        android:background="@drawable/background"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:layout_margin="20dp"
+
+        />
+
+
+
+</LinearLayout>

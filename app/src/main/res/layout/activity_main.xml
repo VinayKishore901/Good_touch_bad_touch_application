@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/pen"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textDirection="firstStrong"
+        android:layout_marginTop="200dp"
+        android:padding="30dp"
+        android:text="Touch the device to a part to see wether it is a good touch or bad touch"/>
+
+
+
+
+</LinearLayout>

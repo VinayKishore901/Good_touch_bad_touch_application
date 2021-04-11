@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31270453982",
+    "firebase_url": "https://toycathon-53515-default-rtdb.firebaseio.com",
+    "project_id": "toycathon-53515",
+    "storage_bucket": "toycathon-53515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31270453982:android:52d1b9261ca5597ce0384f",
+        "android_client_info": {
+          "package_name": "com.example.toycathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31270453982-o3g2s7sd816tjcipcca7d7n95al8gab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETvM1q7VzHQN9qY6-egJbjhw-sgt1hLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31270453982-o3g2s7sd816tjcipcca7d7n95al8gab0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

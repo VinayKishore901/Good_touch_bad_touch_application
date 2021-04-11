@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Information"
+    android:background="@drawable/info">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1dp"
+        android:text="Tips for Educating Toddlers About Good Touch and Bad Touch"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="34dp"
+        android:textStyle="bold"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="1. Don’t Be Shy"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+            <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Being uninhibited with regards to sexual matters is crucial, and though these topics might be sensitive to broach, you are where your child gets her cues from. Explain to her in an engaging way with examples she will be familiar with."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+                android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="2. Try it the Informal Way"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Don’t get too formal or technical while explaining about good or bad touch to your child. She can grasp complex notions, but she wouldn’t want to feel like she is being interrogated. Cut out the serious talk, and use a gentle and calm voice."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="3. Bond With Your Child"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Bond with your child over little things – play with her, dance with her, or just sit and chat. These little things will strengthen the bond you share with her and you will gain her trust. This will let her know that you are there for her and won’t judge her, should anything go wrong."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="4. Stick to the Terminology"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Don’t treat your child like an innocent being who should never learn sexual terms. Employing the appropriate terminology for the body parts, such as penis, vagina and so on, makes these parts feel important and you shouldn’t use slangs for them. The right words will be also helpful for your child to express herself accurately with respect to her body."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="5. Talk About Safe Touch"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Good touch feels great and is a bonding experience, while bad touch breeds discomfort and stress. But let your child know about the intermediate safe touch, which might feel bad but is actually necessary. For example, examinations by doctors, receiving injections and medical treatments might upset your child but she should know that these actions are necessary to safeguard her health."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="6. Employ the Right Literature"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="There are several books around that you can use to teach your children about the right and wrong ways to be touched. These books usually come with pictorial representations of human anatomy, from which your child can learn about her body as well."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="7. Allow Your Child to Back Off"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+android:text="Sometimes children just don’t feel like being touched and they don’t want anyone to kiss them or shower love on them. Some children can also be naturally distant. Don’t force them to provide physical affection, as this might cause them to associate touching you with their lowered moods. Let them walk away from any physical encounters if they want to, even if it upsets you."
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="9. Teach Your Child to Trust Herself"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Your child should not feel guilty if she refuses affection from anyone for any reason. Tell her that when it comes to her own physical space, her feelings and decisions are paramount. This will teach her to trust her emotions with clari"
+            android:textColor="@android:color/black"
+            android:textAlignment="viewStart"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            android:textStyle="normal"
+            tools:ignore="RtlCompat" />
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>
